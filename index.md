@@ -13,7 +13,7 @@ Kidoo n'a ni serveur ni compte propres. Ce que vous saisissez reste sur vos iPho
 
 ## Ce que Kidoo conserve
 
-Le nom et le fuseau horaire de la famille ; le nom affiché de chaque parent ; pour chaque enfant, son prénom, sa date de naissance si vous la donnez, sa couleur et son avatar (un dessin, jamais une photo) ; les activités, tâches, listes de préparation et modèles, avec leurs jours et heures ; qui s'occupe de quoi, les propositions entre parents, qui a coché un élément ou une tâche, et quand, et qui a ajouté ou modifié en dernier une activité ou une tâche. Kidoo ne demande ni photos, ni contacts, ni localisation, ni données de santé. Les titres sont libres : évitez d'y mettre des informations sensibles.
+Le nom et le fuseau horaire de la famille ; le nom affiché de chaque parent et l'apparence de son personnage ; pour chaque enfant, son prénom, sa date de naissance si vous la donnez, sa couleur et l'apparence de son personnage (teinte de peau, cheveux, accessoire : un dessin que vous choisissez, jamais une photo) ; les activités, tâches, listes de préparation et modèles, avec leurs jours et heures, et l'icône choisie pour chaque activité ; qui s'occupe de quoi, les propositions entre parents, qui a coché un élément ou une tâche, et quand, et qui a ajouté ou modifié en dernier une activité ou une tâche. Kidoo ne demande ni photos, ni contacts, ni localisation, ni données de santé. Les titres sont libres : évitez d'y mettre des informations sensibles.
 
 ## Où c'est conservé
 
@@ -79,7 +79,7 @@ Kidoo has no server or account of its own. What you enter stays on your iPhones 
 
 ## What Kidoo keeps
 
-The family's name and time zone; each parent's display name; each child's first name, birth date if you give it, color and avatar (a drawing, never a photo); activities, tasks, preparation lists and templates, with their days and times; who handles what, the proposals between parents, who checked an item or a task, and when, and who added or last changed an activity or a task. Kidoo doesn't ask for photos, contacts, location or health data. Titles are typed freely: avoid putting sensitive information in them.
+The family's name and time zone; each parent's display name and the look of their character; each child's first name, birth date if you give it, color, and the look of their character (skin tone, hair, accessory: a drawing you choose, never a photo); activities, tasks, preparation lists and templates, with their days and times, and the icon chosen for each activity; who handles what, the proposals between parents, who checked an item or a task, and when, and who added or last changed an activity or a task. Kidoo doesn't ask for photos, contacts, location or health data. Titles are typed freely: avoid putting sensitive information in them.
 
 ## Where it is kept
 

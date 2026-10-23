@@ -5,7 +5,7 @@ lang: fr
 
 # Politique de confidentialité
 
-*Dernière mise à jour : 19 octobre 2026*
+*Dernière mise à jour : 23 octobre 2026*
 
 ## En bref
 
@@ -13,7 +13,7 @@ Kidoo n'a ni serveur ni compte propres. Ce que vous saisissez reste sur vos iPho
 
 ## Ce que Kidoo conserve
 
-Le nom et le fuseau horaire de la famille ; le nom affiché de chaque parent ; pour chaque enfant, son prénom, sa date de naissance si vous la donnez, sa couleur et son avatar (un dessin, jamais une photo) ; les activités, tâches, listes de préparation et modèles, avec leurs jours et heures ; qui s'occupe de quoi, les propositions entre parents, et qui a coché un élément ou une tâche, et quand. Kidoo ne demande ni photos, ni contacts, ni localisation, ni données de santé. Les titres sont libres : évitez d'y mettre des informations sensibles.
+Le nom et le fuseau horaire de la famille ; le nom affiché de chaque parent ; pour chaque enfant, son prénom, sa date de naissance si vous la donnez, sa couleur et son avatar (un dessin, jamais une photo) ; les activités, tâches, listes de préparation et modèles, avec leurs jours et heures ; qui s'occupe de quoi, les propositions entre parents, qui a coché un élément ou une tâche, et quand, et qui a ajouté ou modifié en dernier une activité ou une tâche. Kidoo ne demande ni photos, ni contacts, ni localisation, ni données de santé. Les titres sont libres : évitez d'y mettre des informations sensibles.
 
 ## Où c'est conservé
 
@@ -31,9 +31,9 @@ Pour savoir quel parent utilise quel iPhone, Kidoo crée un identifiant aléatoi
 
 Quand vous dictez, la parole est transformée en texte sur votre iPhone uniquement ; le son n'est jamais conservé. Le texte est analysé sur votre iPhone par Kidoo, n'est envoyé nulle part, et il est effacé quand vous fermez l'écran. Rien n'est enregistré avant que vous le confirmiez. La demande de reconnaissance vocale d'iOS mentionne un envoi de données à Apple : c'est un texte standard d'iOS, et Kidoo demande une reconnaissance sur l'iPhone uniquement.
 
-## Rappels
+## Rappels et alertes
 
-Les rappels sont programmés sur votre iPhone. Ils affichent le titre de l'activité, le prénom de l'enfant et l'heure, y compris sur l'écran verrouillé et sur une Apple Watch jumelée, sauf si vous masquez les aperçus des notifications dans les réglages de l'iPhone et de la montre.
+Les rappels, les résumés du jour et les alertes sur les changements de l'autre parent sont préparés sur votre iPhone, sans serveur. Une alerte s'affiche quand ces changements arrivent sur votre iPhone par iCloud : iOS peut la retarder et, si Kidoo a été fermé depuis le sélecteur d'apps, elle attend la prochaine ouverture de Kidoo. Les notifications affichent le titre de l'activité ou celui de la tâche, le prénom de l'enfant, l'heure et qui a fait le changement, y compris sur l'écran verrouillé et sur une Apple Watch jumelée, sauf si vous masquez les aperçus des notifications dans les réglages de l'iPhone et de la montre.
 
 ## Le partage, et sa fin
 
@@ -45,7 +45,7 @@ Vous pouvez supprimer chaque enfant, activité ou tâche dans l'app. Pour tout s
 
 ## Vos choix
 
-Vous pouvez couper à tout moment le micro, la reconnaissance vocale ou les notifications de Kidoo dans Réglages › Kidoo. La dictée et les rappels s'arrêtent alors ; tout le reste continue de fonctionner.
+Vous pouvez couper à tout moment le micro, la reconnaissance vocale ou les notifications de Kidoo dans Réglages › Kidoo. La dictée, les rappels et les alertes s'arrêtent alors ; tout le reste continue de fonctionner.
 
 ## Enfants
 
@@ -71,7 +71,7 @@ Kidoo est développé par Achraf Trabelsi. Questions ou demandes : trabelsiachra
 
 # Privacy policy
 
-*Last updated: October 19, 2026*
+*Last updated: October 23, 2026*
 
 ## In short
 
@@ -79,7 +79,7 @@ Kidoo has no server or account of its own. What you enter stays on your iPhones 
 
 ## What Kidoo keeps
 
-The family's name and time zone; each parent's display name; each child's first name, birth date if you give it, color and avatar (a drawing, never a photo); activities, tasks, preparation lists and templates, with their days and times; who handles what, the proposals between parents, and who checked an item or a task, and when. Kidoo doesn't ask for photos, contacts, location or health data. Titles are typed freely: avoid putting sensitive information in them.
+The family's name and time zone; each parent's display name; each child's first name, birth date if you give it, color and avatar (a drawing, never a photo); activities, tasks, preparation lists and templates, with their days and times; who handles what, the proposals between parents, who checked an item or a task, and when, and who added or last changed an activity or a task. Kidoo doesn't ask for photos, contacts, location or health data. Titles are typed freely: avoid putting sensitive information in them.
 
 ## Where it is kept
 
@@ -97,9 +97,9 @@ To know which parent uses which iPhone, Kidoo creates a random identifier for th
 
 When you dictate, speech is turned into text on your iPhone only; the audio is never kept. The text is analyzed on your iPhone by Kidoo, never sent anywhere, and cleared when you close the screen. Nothing is saved until you confirm it. The iOS speech recognition request mentions sending data to Apple: that is standard iOS wording, and Kidoo asks for recognition on the iPhone only.
 
-## Reminders
+## Reminders and alerts
 
-Reminders are scheduled on your iPhone. They show the activity's title, the child's first name and the time, also on the lock screen and on a paired Apple Watch, unless you hide notification previews in the iPhone's and the Watch's settings.
+Reminders, daily summaries and alerts about the other parent's changes are prepared on your iPhone, with no server. An alert appears when those changes reach your iPhone through iCloud: iOS may delay it, and if Kidoo was closed from the app switcher, it waits until Kidoo is opened again. Notifications show the activity's title or the task's title, the child's first name, the time and who made the change, also on the lock screen and on a paired Apple Watch, unless you hide notification previews in the iPhone's and the Watch's settings.
 
 ## Sharing, and ending it
 
@@ -111,7 +111,7 @@ You can delete any child, activity or task in the app. To delete everything, the
 
 ## Your choices
 
-You can turn off the microphone, speech recognition or notifications for Kidoo at any time in Settings › Kidoo. Dictation and reminders then stop; everything else keeps working.
+You can turn off the microphone, speech recognition or notifications for Kidoo at any time in Settings › Kidoo. Dictation, reminders and alerts then stop; everything else keeps working.
 
 ## Children
 

@@ -5,7 +5,7 @@ lang: fr
 
 # Politique de confidentialité
 
-*Dernière mise à jour : 24 octobre 2026*
+*Dernière mise à jour : 27 octobre 2026*
 
 ## En bref
 
@@ -39,6 +39,10 @@ Les rappels et les résumés du jour sont préparés sur votre iPhone. Quand l'a
 
 Le parent qui a créé la famille invite l'autre parent avec un code, un QR code ou un lien. Il sert une seule fois, pendant sept jours : qui le détient peut rejoindre la famille en tant qu'autre parent d'ici là, ne le partagez donc qu'avec lui. Dans Réglages › Compte, le parent qui a créé la famille peut retirer l'autre parent, et chaque parent peut quitter la famille ; l'iPhone de ce parent efface alors les données de la famille et ses rappels.
 
+## Abonnement
+
+Kidoo Famille est un abonnement annuel acheté dans l'app, avec un mois gratuit pour un nouvel identifiant Apple. Apple gère le paiement : Kidoo ne voit jamais votre carte ni votre identifiant Apple. RevenueCat, qui vérifie les achats pour Kidoo, reçoit l'identifiant aléatoire de la famille et ses achats (produit, dates, boutique), jamais un nom, une adresse e-mail ou une information sur un enfant. Le serveur de Kidoo garde si la famille est abonnée et jusqu'à quand. Sans abonnement, la famille reste consultable et rien n'est supprimé.
+
 ## Supprimer vos données
 
 Vous pouvez supprimer n'importe quel enfant, activité ou tâche dans l'app. Pour supprimer votre compte, allez dans Réglages › Compte › Supprimer mon compte : votre compte, le jeton de notification de votre iPhone et la copie de cet iPhone sont supprimés. Si l'autre parent reste, la famille lui reste, avec votre prénom et votre personnage tels qu'ils y figurent ; si vous êtes le dernier parent, la famille est supprimée. Avec Se connecter avec Apple, une fois que vous confirmez avec Apple, Kidoo cesse aussi d'utiliser votre compte Apple. Vous pouvez aussi écrire au développeur, à l'adresse ci-dessous, pour accéder à vos données, les corriger ou les supprimer.
@@ -57,7 +61,7 @@ Kidoo écrit des notes techniques sur la synchronisation dans le journal de l'iP
 
 ## Qui traite vos données
 
-Le développeur est responsable de vos données. Supabase héberge le serveur sur Amazon Web Services dans l'Union européenne, pour le compte du développeur ; Resend envoie les e-mails contenant votre code de connexion ; Apple achemine les notifications et, si vous l'utilisez, Se connecter avec Apple. Personne d'autre ne reçoit vos données, et elles ne sont jamais vendues.
+Le développeur est responsable de vos données. Supabase héberge le serveur sur Amazon Web Services dans l'Union européenne, pour le compte du développeur ; Resend envoie les e-mails contenant votre code de connexion ; Apple achemine les notifications et, si vous l'utilisez, Se connecter avec Apple ; Apple encaisse le paiement de l'abonnement, et RevenueCat vérifie les achats pour Kidoo. Personne d'autre ne reçoit vos données, et elles ne sont jamais vendues.
 
 ## Vos droits
 
@@ -75,7 +79,7 @@ Kidoo est développé par Achraf Trabelsi. Questions ou demandes : trabelsiachra
 
 # Privacy policy
 
-*Last updated: October 24, 2026*
+*Last updated: October 27, 2026*
 
 ## In short
 
@@ -109,6 +113,10 @@ Reminders and daily summaries are prepared on your iPhone. When the other parent
 
 The parent who created the family invites the other parent with a code, a QR code or a link. It works once, for seven days: whoever has it can join as the other parent until then, so share it only with them. In Settings › Account, the parent who created the family can remove the other parent, and either parent can leave the family; that parent's iPhone then erases the family's data and its reminders.
 
+## Subscription
+
+Kidoo Famille is a yearly subscription bought in the app, with a free month for a new Apple ID. Apple handles the payment: Kidoo never sees your card or your Apple ID. RevenueCat, which checks purchases for Kidoo, receives the family's random identifier and its purchases (product, dates, store), never a name, an email address or a child's information. Kidoo's server keeps whether the family is subscribed and until when. Without a subscription, the family stays readable and nothing is deleted.
+
 ## Deleting your data
 
 You can delete any child, activity or task in the app. To delete your account, go to Settings › Account › Delete my account: your account, your iPhone's notification token and this iPhone's copy are deleted. If the other parent stays, the family stays with them, with your name and character as they appear in it; if you are the last parent, the family is deleted. With Sign in with Apple, once you confirm with Apple, Kidoo also stops using your Apple Account. You can also write to the developer, at the address below, to access, correct or delete your data.
@@ -127,7 +135,7 @@ Kidoo writes technical notes about syncing in the iPhone's log, never names or t
 
 ## Who handles your data
 
-The developer is responsible for your data. Supabase hosts the server on Amazon Web Services in the European Union, on the developer's behalf; Resend sends the emails with your sign-in code; Apple delivers notifications and, if you use it, Sign in with Apple. No one else receives your data, and it is never sold.
+The developer is responsible for your data. Supabase hosts the server on Amazon Web Services in the European Union, on the developer's behalf; Resend sends the emails with your sign-in code; Apple delivers notifications and, if you use it, Sign in with Apple; Apple takes the subscription's payment, and RevenueCat checks purchases for Kidoo. No one else receives your data, and it is never sold.
 
 ## Your rights
 

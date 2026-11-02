@@ -5,7 +5,7 @@ lang: fr
 
 # Politique de confidentialité
 
-*Dernière mise à jour : 27 octobre 2026*
+*Dernière mise à jour : 2 novembre 2026*
 
 ## En bref
 
@@ -17,7 +17,7 @@ Pour vous connecter, Kidoo utilise Se connecter avec Apple, ou un code à 6 chif
 
 ## Ce que Kidoo conserve
 
-Le nom et le fuseau horaire de la famille ; le prénom affiché de chaque parent et l'apparence de son personnage ; le prénom de chaque enfant, sa date de naissance si vous la donnez, sa couleur et l'apparence de son personnage (teint, cheveux, accessoire : un dessin que vous choisissez, jamais une photo) ; les activités, tâches, listes de préparation et modèles, avec leurs jours et heures, et l'icône choisie pour chaque activité ; qui s'occupe de quoi, les propositions entre parents, qui a coché un élément ou une tâche, et quand, et qui a ajouté ou modifié en dernier une activité ou une tâche ; les invitations faites pour l'autre parent. Kidoo ne demande ni photos, ni contacts, ni localisation, ni données de santé. Les titres sont saisis librement : évitez d'y mettre des informations sensibles.
+Le nom et le fuseau horaire de la famille ; le prénom affiché de chaque parent et l'apparence de son personnage ; le prénom de chaque enfant, sa date de naissance si vous la donnez, sa couleur et l'apparence de son personnage (teint, cheveux, accessoire, vêtements : un dessin que vous choisissez, jamais une photo) ; les activités, tâches, listes de préparation et modèles, avec leurs jours et heures, et l'icône choisie pour chaque activité ; qui s'occupe de quoi, les propositions entre parents, qui a coché un élément ou une tâche, et quand, et qui a ajouté ou modifié en dernier une activité ou une tâche ; les invitations faites pour l'autre parent ; les documents que vous ajoutez à une activité ou à une tâche (un PDF, un scan ou une photo que vous choisissez, 6 Mo au maximum), avec leur nom, leur taille et qui les a ajoutés. Kidoo ne demande ni contacts, ni localisation, ni données de santé, et ne voit que les photos que vous choisissez d'ajouter. Les titres sont saisis librement : évitez d'y mettre des informations sensibles.
 
 ## Où c'est conservé
 
@@ -49,7 +49,7 @@ Vous pouvez supprimer n'importe quel enfant, activité ou tâche dans l'app. Pou
 
 ## Vos choix
 
-Vous pouvez couper à tout moment le micro, la reconnaissance vocale ou les notifications de Kidoo dans Réglages › Kidoo. La dictée, les rappels et les alertes s'arrêtent alors ; tout le reste continue de fonctionner.
+Vous pouvez couper à tout moment l'appareil photo, le micro, la reconnaissance vocale ou les notifications de Kidoo dans Réglages › Kidoo. Le scan, la dictée, les rappels et les alertes s'arrêtent alors ; tout le reste continue de fonctionner.
 
 ## Enfants
 
@@ -79,7 +79,7 @@ Kidoo est développé par Achraf Trabelsi. Questions ou demandes : trabelsiachra
 
 # Privacy policy
 
-*Last updated: October 27, 2026*
+*Last updated: November 2, 2026*
 
 ## In short
 
@@ -91,7 +91,7 @@ To sign in, Kidoo uses Sign in with Apple, or a 6-digit code sent to your email 
 
 ## What Kidoo keeps
 
-The family's name and time zone; each parent's display name and the look of their character; each child's first name, birth date if you give it, color, and the look of their character (skin tone, hair, accessory: a drawing you choose, never a photo); activities, tasks, preparation lists and templates, with their days and times, and the icon chosen for each activity; who handles what, the proposals between parents, who checked an item or a task, and when, and who added or last changed an activity or a task; the invitations made for the other parent. Kidoo doesn't ask for photos, contacts, location or health data. Titles are typed freely: avoid putting sensitive information in them.
+The family's name and time zone; each parent's display name and the look of their character; each child's first name, birth date if you give it, color, and the look of their character (skin tone, hair, accessory, clothes: a drawing you choose, never a photo); activities, tasks, preparation lists and templates, with their days and times, and the icon chosen for each activity; who handles what, the proposals between parents, who checked an item or a task, and when, and who added or last changed an activity or a task; the invitations made for the other parent; the documents you add to an activity or a task (a PDF, a scan or a photo you choose, 6 MB at most), with their name, size and who added them. Kidoo doesn't ask for contacts, location or health data, and only sees the photos you choose to add. Titles are typed freely: avoid putting sensitive information in them.
 
 ## Where it is kept
 
@@ -123,7 +123,7 @@ You can delete any child, activity or task in the app. To delete your account, g
 
 ## Your choices
 
-You can turn off the microphone, speech recognition or notifications for Kidoo at any time in Settings › Kidoo. Dictation, reminders and alerts then stop; everything else keeps working.
+You can turn off the camera, the microphone, speech recognition or notifications for Kidoo at any time in Settings › Kidoo. Scanning, dictation, reminders and alerts then stop; everything else keeps working.
 
 ## Children
 

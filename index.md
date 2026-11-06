@@ -5,7 +5,7 @@ lang: fr
 
 # Politique de confidentialité
 
-*Dernière mise à jour : 2 novembre 2026*
+*Dernière mise à jour : 6 novembre 2026*
 
 ## En bref
 
@@ -17,7 +17,7 @@ Pour vous connecter, Kidoo utilise Se connecter avec Apple, ou un code à 6 chif
 
 ## Ce que Kidoo conserve
 
-Le nom et le fuseau horaire de la famille ; le prénom affiché de chaque parent et l'apparence de son personnage ; le prénom de chaque enfant, sa date de naissance si vous la donnez, sa couleur et l'apparence de son personnage (teint, cheveux, accessoire, vêtements : un dessin que vous choisissez, jamais une photo) ; les activités, tâches, listes de préparation et modèles, avec leurs jours et heures, et l'icône choisie pour chaque activité ; qui s'occupe de quoi, les propositions entre parents, qui a coché un élément ou une tâche, et quand, et qui a ajouté ou modifié en dernier une activité ou une tâche ; les invitations faites pour l'autre parent ; les documents que vous ajoutez à une activité ou à une tâche (un PDF, un scan ou une photo que vous choisissez, 6 Mo au maximum), avec leur nom, leur taille et qui les a ajoutés. Kidoo ne demande ni contacts, ni localisation, ni données de santé, et ne voit que les photos que vous choisissez d'ajouter. Les titres sont saisis librement : évitez d'y mettre des informations sensibles.
+Le nom et le fuseau horaire de la famille ; le prénom affiché de chaque parent et l'apparence de son personnage ; le prénom de chaque enfant, sa date de naissance si vous la donnez, sa couleur et l'apparence de son personnage (teint, cheveux, accessoire, vêtements : un dessin que vous choisissez, jamais une photo) ; les activités, tâches, listes de préparation et modèles, avec leurs jours et heures, et l'icône choisie pour chaque activité ; qui s'occupe de quoi, les propositions entre parents, qui a coché un élément ou une tâche, et quand, et qui a ajouté ou modifié en dernier une activité ou une tâche ; les messages que les parents échangent dans Entre nous, avec leur heure, s'ils ont été modifiés ou supprimés, et la réaction en emoji de l'autre parent ; les invitations faites pour l'autre parent ; les documents que vous ajoutez à une activité ou à une tâche (un PDF, un scan ou une photo que vous choisissez, 6 Mo au maximum), avec leur nom, leur taille et qui les a ajoutés. Kidoo ne demande ni contacts, ni localisation, ni données de santé, et ne voit que les photos que vous choisissez d'ajouter. Les titres sont saisis librement : évitez d'y mettre des informations sensibles.
 
 ## Où c'est conservé
 
@@ -33,11 +33,11 @@ Quand vous dictez, la parole est transformée en texte sur votre iPhone uniqueme
 
 ## Rappels et alertes
 
-Les rappels et les résumés du jour sont préparés sur votre iPhone. Quand l'autre parent vous demande quelque chose ou répond à votre demande, le serveur de Kidoo envoie l'alerte par le service de notifications d'Apple ; les autres alertes sur les changements de l'autre parent sont préparées sur votre iPhone quand ces changements y arrivent, et iOS peut les retarder. Pour envoyer les alertes, le serveur garde le jeton de notification de votre iPhone jusqu'à ce que vous vous déconnectiez ou supprimiez votre compte. Les notifications montrent le titre de l'activité ou de la tâche, le prénom de l'enfant, l'heure et qui a fait le changement, y compris sur l'écran verrouillé et sur une Apple Watch jumelée, sauf si vous masquez les aperçus des notifications dans les réglages de l'iPhone et de la montre.
+Les rappels et les résumés du jour sont préparés sur votre iPhone. Quand l'autre parent vous demande quelque chose, répond à votre demande, vous écrit ou réagit à votre message, le serveur de Kidoo envoie l'alerte par le service de notifications d'Apple ; les autres alertes sur les changements de l'autre parent sont préparées sur votre iPhone quand ces changements y arrivent, et iOS peut les retarder. Pour envoyer les alertes, le serveur garde le jeton de notification de votre iPhone jusqu'à ce que vous vous déconnectiez ou supprimiez votre compte. Les notifications montrent le titre de l'activité ou de la tâche, le prénom de l'enfant, l'heure et qui a fait le changement, ainsi que le texte d'un message, y compris sur l'écran verrouillé et sur une Apple Watch jumelée, sauf si vous masquez les aperçus des notifications dans les réglages de l'iPhone et de la montre.
 
 ## Inviter et partir
 
-Le parent qui a créé la famille invite l'autre parent avec un code, un QR code ou un lien. Il sert une seule fois, pendant sept jours : qui le détient peut rejoindre la famille en tant qu'autre parent d'ici là, ne le partagez donc qu'avec lui. Dans Réglages › Compte, le parent qui a créé la famille peut retirer l'autre parent, et chaque parent peut quitter la famille ; l'iPhone de ce parent efface alors les données de la famille et ses rappels.
+Le parent qui a créé la famille invite l'autre parent avec un code, un QR code ou un lien. Il sert une seule fois, pendant sept jours : qui le détient peut rejoindre la famille en tant qu'autre parent d'ici là, ne le partagez donc qu'avec lui. Dans Réglages › Compte, le parent qui a créé la famille peut retirer l'autre parent, et chaque parent peut quitter la famille ; l'iPhone de ce parent efface alors les données de la famille et ses rappels. Quand un parent quitte la famille ou supprime son compte, la conversation entre parents est effacée pour les deux.
 
 ## Abonnement
 
@@ -45,7 +45,7 @@ Kidoo Famille est un abonnement annuel acheté dans l'app, avec un mois gratuit 
 
 ## Supprimer vos données
 
-Vous pouvez supprimer n'importe quel enfant, activité ou tâche dans l'app. Pour supprimer votre compte, allez dans Réglages › Compte › Supprimer mon compte : votre compte, le jeton de notification de votre iPhone et la copie de cet iPhone sont supprimés. Si l'autre parent reste, la famille lui reste, avec votre prénom et votre personnage tels qu'ils y figurent ; si vous êtes le dernier parent, la famille est supprimée. Avec Se connecter avec Apple, une fois que vous confirmez avec Apple, Kidoo cesse aussi d'utiliser votre compte Apple. Vous pouvez aussi écrire au développeur, à l'adresse ci-dessous, pour accéder à vos données, les corriger ou les supprimer.
+Vous pouvez supprimer n'importe quel enfant, activité ou tâche, ainsi que vos propres messages, dans l'app. Pour supprimer votre compte, allez dans Réglages › Compte › Supprimer mon compte : votre compte, le jeton de notification de votre iPhone et la copie de cet iPhone sont supprimés. Si l'autre parent reste, la famille lui reste, avec votre prénom et votre personnage tels qu'ils y figurent ; si vous êtes le dernier parent, la famille est supprimée. Avec Se connecter avec Apple, une fois que vous confirmez avec Apple, Kidoo cesse aussi d'utiliser votre compte Apple. Vous pouvez aussi écrire au développeur, à l'adresse ci-dessous, pour accéder à vos données, les corriger ou les supprimer.
 
 ## Vos choix
 
@@ -79,7 +79,7 @@ Kidoo est développé par Achraf Trabelsi. Questions ou demandes : trabelsiachra
 
 # Privacy policy
 
-*Last updated: November 2, 2026*
+*Last updated: November 6, 2026*
 
 ## In short
 
@@ -91,7 +91,7 @@ To sign in, Kidoo uses Sign in with Apple, or a 6-digit code sent to your email 
 
 ## What Kidoo keeps
 
-The family's name and time zone; each parent's display name and the look of their character; each child's first name, birth date if you give it, color, and the look of their character (skin tone, hair, accessory, clothes: a drawing you choose, never a photo); activities, tasks, preparation lists and templates, with their days and times, and the icon chosen for each activity; who handles what, the proposals between parents, who checked an item or a task, and when, and who added or last changed an activity or a task; the invitations made for the other parent; the documents you add to an activity or a task (a PDF, a scan or a photo you choose, 6 MB at most), with their name, size and who added them. Kidoo doesn't ask for contacts, location or health data, and only sees the photos you choose to add. Titles are typed freely: avoid putting sensitive information in them.
+The family's name and time zone; each parent's display name and the look of their character; each child's first name, birth date if you give it, color, and the look of their character (skin tone, hair, accessory, clothes: a drawing you choose, never a photo); activities, tasks, preparation lists and templates, with their days and times, and the icon chosen for each activity; who handles what, the proposals between parents, who checked an item or a task, and when, and who added or last changed an activity or a task; the messages the parents exchange in Between us, with their time, whether they were edited or deleted, and the other parent's emoji reaction; the invitations made for the other parent; the documents you add to an activity or a task (a PDF, a scan or a photo you choose, 6 MB at most), with their name, size and who added them. Kidoo doesn't ask for contacts, location or health data, and only sees the photos you choose to add. Titles are typed freely: avoid putting sensitive information in them.
 
 ## Where it is kept
 
@@ -107,11 +107,11 @@ When you dictate, speech is turned into text on your iPhone only; the audio is n
 
 ## Reminders and alerts
 
-Reminders and daily summaries are prepared on your iPhone. When the other parent asks you something or answers your request, Kidoo's server sends the alert through Apple's notification service; other alerts about the other parent's changes are prepared on your iPhone when those changes reach it, and iOS may delay them. To send alerts, the server keeps your iPhone's notification token until you sign out or delete your account. Notifications show the activity's title or the task's title, the child's first name, the time and who made the change, also on the lock screen and on a paired Apple Watch, unless you hide notification previews in the iPhone's and the Watch's settings.
+Reminders and daily summaries are prepared on your iPhone. When the other parent asks you something, answers your request, writes to you or reacts to your message, Kidoo's server sends the alert through Apple's notification service; other alerts about the other parent's changes are prepared on your iPhone when those changes reach it, and iOS may delay them. To send alerts, the server keeps your iPhone's notification token until you sign out or delete your account. Notifications show the activity's title or the task's title, the child's first name, the time and who made the change, and a message's text, also on the lock screen and on a paired Apple Watch, unless you hide notification previews in the iPhone's and the Watch's settings.
 
 ## Inviting and leaving
 
-The parent who created the family invites the other parent with a code, a QR code or a link. It works once, for seven days: whoever has it can join as the other parent until then, so share it only with them. In Settings › Account, the parent who created the family can remove the other parent, and either parent can leave the family; that parent's iPhone then erases the family's data and its reminders.
+The parent who created the family invites the other parent with a code, a QR code or a link. It works once, for seven days: whoever has it can join as the other parent until then, so share it only with them. In Settings › Account, the parent who created the family can remove the other parent, and either parent can leave the family; that parent's iPhone then erases the family's data and its reminders. When a parent leaves the family or deletes their account, the conversation between parents is erased for both.
 
 ## Subscription
 
@@ -119,7 +119,7 @@ Kidoo Famille is a yearly subscription bought in the app, with a free month for 
 
 ## Deleting your data
 
-You can delete any child, activity or task in the app. To delete your account, go to Settings › Account › Delete my account: your account, your iPhone's notification token and this iPhone's copy are deleted. If the other parent stays, the family stays with them, with your name and character as they appear in it; if you are the last parent, the family is deleted. With Sign in with Apple, once you confirm with Apple, Kidoo also stops using your Apple Account. You can also write to the developer, at the address below, to access, correct or delete your data.
+You can delete any child, activity or task, and your own messages, in the app. To delete your account, go to Settings › Account › Delete my account: your account, your iPhone's notification token and this iPhone's copy are deleted. If the other parent stays, the family stays with them, with your name and character as they appear in it; if you are the last parent, the family is deleted. With Sign in with Apple, once you confirm with Apple, Kidoo also stops using your Apple Account. You can also write to the developer, at the address below, to access, correct or delete your data.
 
 ## Your choices
 

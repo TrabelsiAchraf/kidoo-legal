@@ -41,7 +41,7 @@ Le parent qui a créé la famille invite l'autre parent avec un code, un QR code
 
 ## Abonnement
 
-Kidoo Famille est un abonnement annuel acheté dans l'app, avec un mois gratuit pour un nouvel identifiant Apple. Apple gère le paiement : Kidoo ne voit jamais votre carte ni votre identifiant Apple. RevenueCat, qui vérifie les achats pour Kidoo, reçoit l'identifiant aléatoire de la famille et ses achats (produit, dates, boutique), jamais un nom, une adresse e-mail ou une information sur un enfant. Le serveur de Kidoo garde si la famille est abonnée et jusqu'à quand. Sans abonnement, la famille reste consultable et rien n'est supprimé.
+Kidoo Famille est un abonnement mensuel ou annuel acheté dans l'app ; l'annuel commence par un mois gratuit pour un nouvel identifiant Apple. Apple gère le paiement : Kidoo ne voit jamais votre carte ni votre identifiant Apple. RevenueCat, qui vérifie les achats pour Kidoo, reçoit l'identifiant aléatoire de la famille et ses achats (produit, dates, boutique), jamais un nom, une adresse e-mail ou une information sur un enfant. Le serveur de Kidoo garde si la famille est abonnée et jusqu'à quand. Sans abonnement, la famille reste consultable et rien n'est supprimé.
 
 ## Supprimer vos données
 
@@ -115,7 +115,7 @@ The parent who created the family invites the other parent with a code, a QR cod
 
 ## Subscription
 
-Kidoo Famille is a yearly subscription bought in the app, with a free month for a new Apple ID. Apple handles the payment: Kidoo never sees your card or your Apple ID. RevenueCat, which checks purchases for Kidoo, receives the family's random identifier and its purchases (product, dates, store), never a name, an email address or a child's information. Kidoo's server keeps whether the family is subscribed and until when. Without a subscription, the family stays readable and nothing is deleted.
+Kidoo Famille is a monthly or yearly subscription bought in the app; the yearly one starts with a free month for a new Apple ID. Apple handles the payment: Kidoo never sees your card or your Apple ID. RevenueCat, which checks purchases for Kidoo, receives the family's random identifier and its purchases (product, dates, store), never a name, an email address or a child's information. Kidoo's server keeps whether the family is subscribed and until when. Without a subscription, the family stays readable and nothing is deleted.
 
 ## Deleting your data
 

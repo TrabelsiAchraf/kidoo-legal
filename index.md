@@ -5,7 +5,7 @@ lang: fr
 
 # Politique de confidentialité
 
-*Dernière mise à jour : 6 novembre 2026*
+*Dernière mise à jour : 7 novembre 2026*
 
 ## En bref
 
@@ -33,7 +33,7 @@ Quand vous dictez, la parole est transformée en texte sur votre iPhone uniqueme
 
 ## Rappels et alertes
 
-Les rappels et les résumés du jour sont préparés sur votre iPhone. Quand l'autre parent vous demande quelque chose, répond à votre demande, vous écrit ou réagit à votre message, le serveur de Kidoo envoie l'alerte par le service de notifications d'Apple ; les autres alertes sur les changements de l'autre parent sont préparées sur votre iPhone quand ces changements y arrivent, et iOS peut les retarder. Pour envoyer les alertes, le serveur garde le jeton de notification de votre iPhone jusqu'à ce que vous vous déconnectiez ou supprimiez votre compte. Les notifications montrent le titre de l'activité ou de la tâche, le prénom de l'enfant, l'heure et qui a fait le changement, ainsi que le texte d'un message, y compris sur l'écran verrouillé et sur une Apple Watch jumelée, sauf si vous masquez les aperçus des notifications dans les réglages de l'iPhone et de la montre.
+Les rappels et les résumés du jour sont préparés sur votre iPhone. Quand l'autre parent vous demande quelque chose, répond à votre demande, vous écrit ou réagit à votre message, le serveur de Kidoo envoie l'alerte par le service de notifications d'Apple ; les autres alertes sur les changements de l'autre parent sont préparées sur votre iPhone quand ces changements y arrivent, et iOS peut les retarder. Pour envoyer les alertes, le serveur garde le jeton de notification de votre iPhone jusqu'à ce que vous vous déconnectiez ou supprimiez votre compte. Avec le compte à rebours activé, votre iPhone envoie aussi au serveur de Kidoo les activités à heure fixe de la semaine à venir (titre, prénom de l'enfant, horaires et qui s'en occupe), pour que le serveur lance le compte à rebours sur l'écran verrouillé via Apple ; elles sont supprimées un jour après chaque activité, et quand vous désactivez le compte à rebours, vous déconnectez ou supprimez votre compte. Les notifications montrent le titre de l'activité ou de la tâche, le prénom de l'enfant, l'heure et qui a fait le changement, ainsi que le texte d'un message, y compris sur l'écran verrouillé et sur une Apple Watch jumelée, sauf si vous masquez les aperçus des notifications dans les réglages de l'iPhone et de la montre.
 
 ## Inviter et partir
 
@@ -79,7 +79,7 @@ Kidoo est développé par Achraf Trabelsi. Questions ou demandes : trabelsiachra
 
 # Privacy policy
 
-*Last updated: November 6, 2026*
+*Last updated: November 7, 2026*
 
 ## In short
 
@@ -107,7 +107,7 @@ When you dictate, speech is turned into text on your iPhone only; the audio is n
 
 ## Reminders and alerts
 
-Reminders and daily summaries are prepared on your iPhone. When the other parent asks you something, answers your request, writes to you or reacts to your message, Kidoo's server sends the alert through Apple's notification service; other alerts about the other parent's changes are prepared on your iPhone when those changes reach it, and iOS may delay them. To send alerts, the server keeps your iPhone's notification token until you sign out or delete your account. Notifications show the activity's title or the task's title, the child's first name, the time and who made the change, and a message's text, also on the lock screen and on a paired Apple Watch, unless you hide notification previews in the iPhone's and the Watch's settings.
+Reminders and daily summaries are prepared on your iPhone. When the other parent asks you something, answers your request, writes to you or reacts to your message, Kidoo's server sends the alert through Apple's notification service; other alerts about the other parent's changes are prepared on your iPhone when those changes reach it, and iOS may delay them. To send alerts, the server keeps your iPhone's notification token until you sign out or delete your account. With the countdown on, your iPhone also sends Kidoo's server its coming week's timed activities (title, child's first name, times and who handles it), so that the server can start the countdown on the lock screen through Apple; they are deleted a day after each activity, and when you turn the countdown off, sign out or delete your account. Notifications show the activity's title or the task's title, the child's first name, the time and who made the change, and a message's text, also on the lock screen and on a paired Apple Watch, unless you hide notification previews in the iPhone's and the Watch's settings.
 
 ## Inviting and leaving
 

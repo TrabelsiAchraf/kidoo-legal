@@ -5,11 +5,11 @@ lang: fr
 
 # Politique de confidentialité
 
-*Dernière mise à jour : 7 novembre 2026*
+*Dernière mise à jour : 8 novembre 2026*
 
 ## En bref
 
-Kidoo garde votre famille sur vos iPhone et sur son serveur dans l'Union européenne, pour que les deux parents voient la même famille. Chaque parent se connecte avec son propre compte, sans mot de passe. Kidoo ne contient aucun outil de publicité ou de mesure d'audience, et ne vous suit pas.
+Kidoo garde votre famille sur vos appareils et sur son serveur dans l'Union européenne, pour que les deux parents voient la même famille. Chaque parent se connecte avec son propre compte, sans mot de passe. Kidoo ne contient aucun outil de publicité ou de mesure d'audience, et ne vous suit pas.
 
 ## Votre compte
 
@@ -21,23 +21,23 @@ Le nom et le fuseau horaire de la famille ; le prénom affiché de chaque parent
 
 ## Où c'est conservé
 
-Sur chaque iPhone, dans le stockage propre à l'app, et sur le serveur de Kidoo, exploité avec Supabase sur Amazon Web Services à Paris (Union européenne). Seuls les parents de la famille peuvent lire ses données : le serveur vérifie chaque demande d'après le compte qui la fait. Le développeur peut accéder au serveur pour le faire fonctionner, et ne consulte pas les données des familles par ailleurs.
+Sur chaque appareil, dans le stockage propre à l'app, et sur le serveur de Kidoo, exploité avec Supabase sur Amazon Web Services à Paris (Union européenne). Seuls les parents de la famille peuvent lire ses données : le serveur vérifie chaque demande d'après le compte qui la fait. Le développeur peut accéder au serveur pour le faire fonctionner, et ne consulte pas les données des familles par ailleurs.
 
 ## Durée de conservation
 
-Sur un iPhone, jusqu'à ce que vous quittiez la famille, supprimiez votre compte ou supprimiez l'app. Sur le serveur, tant que la famille a un parent : quand le dernier parent la quitte ou supprime son compte, la famille est supprimée. Les codes de connexion expirent au bout d'une heure, les invitations au bout de sept jours. Les sauvegardes du serveur, s'il y en a, sont gardées sept jours au plus. Un e-mail que vous envoyez est gardé le temps nécessaire pour y répondre.
+Sur un appareil, jusqu'à ce que vous quittiez la famille, supprimiez votre compte ou supprimiez l'app. Sur le serveur, tant que la famille a un parent : quand le dernier parent la quitte ou supprime son compte, la famille est supprimée. Les codes de connexion expirent au bout d'une heure, les invitations au bout de sept jours. Les sauvegardes du serveur, s'il y en a, sont gardées sept jours au plus. Un e-mail que vous envoyez est gardé le temps nécessaire pour y répondre.
 
 ## Dictée
 
-Quand vous dictez, la parole est transformée en texte sur votre iPhone uniquement ; le son n'est jamais conservé. Le texte est analysé sur votre iPhone par Kidoo, n'est envoyé nulle part, et il est effacé quand vous fermez l'écran. Rien n'est enregistré avant que vous le confirmiez. La demande de reconnaissance vocale d'iOS mentionne un envoi de données à Apple : c'est un texte standard d'iOS, et Kidoo demande une reconnaissance sur l'iPhone uniquement.
+Quand vous dictez, la parole est transformée en texte sur votre appareil uniquement ; le son n'est jamais conservé. Le texte est analysé sur votre appareil par Kidoo, n'est envoyé nulle part, et il est effacé quand vous fermez l'écran. Rien n'est enregistré avant que vous le confirmiez. La demande de reconnaissance vocale d'iOS mentionne un envoi de données à Apple : c'est un texte standard d'iOS, et Kidoo demande une reconnaissance sur l'appareil uniquement.
 
 ## Rappels et alertes
 
-Les rappels et les résumés du jour sont préparés sur votre iPhone. Quand l'autre parent vous demande quelque chose, répond à votre demande, vous écrit ou réagit à votre message, le serveur de Kidoo envoie l'alerte par le service de notifications d'Apple ; les autres alertes sur les changements de l'autre parent sont préparées sur votre iPhone quand ces changements y arrivent, et iOS peut les retarder. Pour envoyer les alertes, le serveur garde le jeton de notification de votre iPhone jusqu'à ce que vous vous déconnectiez ou supprimiez votre compte. Avec le compte à rebours activé, votre iPhone envoie aussi au serveur de Kidoo les activités à heure fixe de la semaine à venir (titre, prénom de l'enfant, horaires et qui s'en occupe), pour que le serveur lance le compte à rebours sur l'écran verrouillé via Apple ; elles sont supprimées un jour après chaque activité, et quand vous désactivez le compte à rebours, vous déconnectez ou supprimez votre compte. Les notifications montrent le titre de l'activité ou de la tâche, le prénom de l'enfant, l'heure et qui a fait le changement, ainsi que le texte d'un message, y compris sur l'écran verrouillé et sur une Apple Watch jumelée, sauf si vous masquez les aperçus des notifications dans les réglages de l'iPhone et de la montre.
+Les rappels et les résumés du jour sont préparés sur votre appareil. Quand l'autre parent vous demande quelque chose, répond à votre demande, vous écrit ou réagit à votre message, le serveur de Kidoo envoie l'alerte par le service de notifications d'Apple ; les autres alertes sur les changements de l'autre parent sont préparées sur votre appareil quand ces changements y arrivent, et iOS peut les retarder. Pour envoyer les alertes, le serveur garde le jeton de notification de votre appareil jusqu'à ce que vous vous déconnectiez ou supprimiez votre compte. Avec le compte à rebours activé, votre appareil envoie aussi au serveur de Kidoo les activités à heure fixe de la semaine à venir (titre, prénom de l'enfant, horaires et qui s'en occupe), pour que le serveur lance le compte à rebours sur l'écran verrouillé via Apple ; elles sont supprimées un jour après chaque activité, et quand vous désactivez le compte à rebours, vous déconnectez ou supprimez votre compte. Les notifications montrent le titre de l'activité ou de la tâche, le prénom de l'enfant, l'heure et qui a fait le changement, ainsi que le texte d'un message, y compris sur l'écran verrouillé et sur une Apple Watch jumelée, sauf si vous masquez les aperçus des notifications dans les réglages de l'appareil et de la montre.
 
 ## Inviter et partir
 
-Le parent qui a créé la famille invite l'autre parent avec un code, un QR code ou un lien. Il sert une seule fois, pendant sept jours : qui le détient peut rejoindre la famille en tant qu'autre parent d'ici là, ne le partagez donc qu'avec lui. Dans Réglages › Compte, le parent qui a créé la famille peut retirer l'autre parent, et chaque parent peut quitter la famille ; l'iPhone de ce parent efface alors les données de la famille et ses rappels. Quand un parent quitte la famille ou supprime son compte, la conversation entre parents est effacée pour les deux.
+Le parent qui a créé la famille invite l'autre parent avec un code, un QR code ou un lien. Il sert une seule fois, pendant sept jours : qui le détient peut rejoindre la famille en tant qu'autre parent d'ici là, ne le partagez donc qu'avec lui. Dans Réglages › Compte, le parent qui a créé la famille peut retirer l'autre parent, et chaque parent peut quitter la famille ; l'appareil de ce parent efface alors les données de la famille et ses rappels. Quand un parent quitte la famille ou supprime son compte, la conversation entre parents est effacée pour les deux.
 
 ## Abonnement
 
@@ -45,7 +45,7 @@ Kidoo Famille est un abonnement mensuel ou annuel acheté dans l'app ; l'annuel 
 
 ## Supprimer vos données
 
-Vous pouvez supprimer n'importe quel enfant, activité ou tâche, ainsi que vos propres messages, dans l'app. Pour supprimer votre compte, allez dans Réglages › Compte › Supprimer mon compte : votre compte, le jeton de notification de votre iPhone et la copie de cet iPhone sont supprimés. Si l'autre parent reste, la famille lui reste, avec votre prénom et votre personnage tels qu'ils y figurent ; si vous êtes le dernier parent, la famille est supprimée. Avec Se connecter avec Apple, une fois que vous confirmez avec Apple, Kidoo cesse aussi d'utiliser votre compte Apple. Vous pouvez aussi écrire au développeur, à l'adresse ci-dessous, pour accéder à vos données, les corriger ou les supprimer.
+Vous pouvez supprimer n'importe quel enfant, activité ou tâche, ainsi que vos propres messages, dans l'app. Pour supprimer votre compte, allez dans Réglages › Compte › Supprimer mon compte : votre compte, le jeton de notification de votre appareil et la copie de cet appareil sont supprimés. Si l'autre parent reste, la famille lui reste, avec votre prénom et votre personnage tels qu'ils y figurent ; si vous êtes le dernier parent, la famille est supprimée. Avec Se connecter avec Apple, une fois que vous confirmez avec Apple, Kidoo cesse aussi d'utiliser votre compte Apple. Vous pouvez aussi écrire au développeur, à l'adresse ci-dessous, pour accéder à vos données, les corriger ou les supprimer.
 
 ## Vos choix
 
@@ -57,7 +57,7 @@ Kidoo est destiné aux parents, pas aux enfants. Les enfants n'ont pas de compte
 
 ## Journaux et statistiques
 
-Kidoo écrit des notes techniques sur la synchronisation dans le journal de l'iPhone, jamais de noms ni de titres. Le serveur garde peu de temps des journaux techniques des demandes, et sept jours un journal des connexions (adresse e-mail, adresse IP et heure). Si vous choisissez Partager avec les développeurs d'apps (Réglages › Confidentialité et sécurité › Analyses et améliorations), Apple peut transmettre au développeur des statistiques d'utilisation et des rapports de plantage.
+Kidoo écrit des notes techniques sur la synchronisation dans le journal de l'appareil, jamais de noms ni de titres. Le serveur garde peu de temps des journaux techniques des demandes, et sept jours un journal des connexions (adresse e-mail, adresse IP et heure). Si vous choisissez Partager avec les développeurs d'apps (Réglages › Confidentialité et sécurité › Analyses et améliorations), Apple peut transmettre au développeur des statistiques d'utilisation et des rapports de plantage.
 
 ## Qui traite vos données
 
@@ -79,11 +79,11 @@ Kidoo est développé par Achraf Trabelsi. Questions ou demandes : trabelsiachra
 
 # Privacy policy
 
-*Last updated: November 7, 2026*
+*Last updated: November 8, 2026*
 
 ## In short
 
-Kidoo keeps your family on your iPhones and on its server in the European Union, so that both parents see the same family. Each parent signs in with their own account, without a password. Kidoo contains no advertising or analytics tool and doesn't track you.
+Kidoo keeps your family on your devices and on its server in the European Union, so that both parents see the same family. Each parent signs in with their own account, without a password. Kidoo contains no advertising or analytics tool and doesn't track you.
 
 ## Your account
 
@@ -95,23 +95,23 @@ The family's name and time zone; each parent's display name and the look of thei
 
 ## Where it is kept
 
-On each iPhone, in the app's own storage, and on Kidoo's server, run with Supabase on Amazon Web Services in Paris (European Union). Only the parents of the family can read the family's data: the server checks every request against the account that makes it. The developer can reach the server to keep it running, and doesn't look at families' data otherwise.
+On each device, in the app's own storage, and on Kidoo's server, run with Supabase on Amazon Web Services in Paris (European Union). Only the parents of the family can read the family's data: the server checks every request against the account that makes it. The developer can reach the server to keep it running, and doesn't look at families' data otherwise.
 
 ## How long it is kept
 
-On an iPhone, until you leave the family, delete your account or delete the app. On the server, as long as the family has a parent: when the last parent leaves or deletes their account, the family is deleted. Sign-in codes expire after an hour, invitations after seven days. The server's backups, if any, are kept for at most seven days. An email you send is kept as long as needed to answer it.
+On a device, until you leave the family, delete your account or delete the app. On the server, as long as the family has a parent: when the last parent leaves or deletes their account, the family is deleted. Sign-in codes expire after an hour, invitations after seven days. The server's backups, if any, are kept for at most seven days. An email you send is kept as long as needed to answer it.
 
 ## Dictation
 
-When you dictate, speech is turned into text on your iPhone only; the audio is never kept. The text is analyzed on your iPhone by Kidoo, never sent anywhere, and cleared when you close the screen. Nothing is saved until you confirm it. The iOS speech recognition request mentions sending data to Apple: that is standard iOS wording, and Kidoo asks for recognition on the iPhone only.
+When you dictate, speech is turned into text on your device only; the audio is never kept. The text is analyzed on your device by Kidoo, never sent anywhere, and cleared when you close the screen. Nothing is saved until you confirm it. The iOS speech recognition request mentions sending data to Apple: that is standard iOS wording, and Kidoo asks for recognition on the device only.
 
 ## Reminders and alerts
 
-Reminders and daily summaries are prepared on your iPhone. When the other parent asks you something, answers your request, writes to you or reacts to your message, Kidoo's server sends the alert through Apple's notification service; other alerts about the other parent's changes are prepared on your iPhone when those changes reach it, and iOS may delay them. To send alerts, the server keeps your iPhone's notification token until you sign out or delete your account. With the countdown on, your iPhone also sends Kidoo's server its coming week's timed activities (title, child's first name, times and who handles it), so that the server can start the countdown on the lock screen through Apple; they are deleted a day after each activity, and when you turn the countdown off, sign out or delete your account. Notifications show the activity's title or the task's title, the child's first name, the time and who made the change, and a message's text, also on the lock screen and on a paired Apple Watch, unless you hide notification previews in the iPhone's and the Watch's settings.
+Reminders and daily summaries are prepared on your device. When the other parent asks you something, answers your request, writes to you or reacts to your message, Kidoo's server sends the alert through Apple's notification service; other alerts about the other parent's changes are prepared on your device when those changes reach it, and iOS may delay them. To send alerts, the server keeps your device's notification token until you sign out or delete your account. With the countdown on, your device also sends Kidoo's server its coming week's timed activities (title, child's first name, times and who handles it), so that the server can start the countdown on the lock screen through Apple; they are deleted a day after each activity, and when you turn the countdown off, sign out or delete your account. Notifications show the activity's title or the task's title, the child's first name, the time and who made the change, and a message's text, also on the lock screen and on a paired Apple Watch, unless you hide notification previews in the device's and the Watch's settings.
 
 ## Inviting and leaving
 
-The parent who created the family invites the other parent with a code, a QR code or a link. It works once, for seven days: whoever has it can join as the other parent until then, so share it only with them. In Settings › Account, the parent who created the family can remove the other parent, and either parent can leave the family; that parent's iPhone then erases the family's data and its reminders. When a parent leaves the family or deletes their account, the conversation between parents is erased for both.
+The parent who created the family invites the other parent with a code, a QR code or a link. It works once, for seven days: whoever has it can join as the other parent until then, so share it only with them. In Settings › Account, the parent who created the family can remove the other parent, and either parent can leave the family; that parent's device then erases the family's data and its reminders. When a parent leaves the family or deletes their account, the conversation between parents is erased for both.
 
 ## Subscription
 
@@ -119,7 +119,7 @@ Kidoo Famille is a monthly or yearly subscription bought in the app; the yearly 
 
 ## Deleting your data
 
-You can delete any child, activity or task, and your own messages, in the app. To delete your account, go to Settings › Account › Delete my account: your account, your iPhone's notification token and this iPhone's copy are deleted. If the other parent stays, the family stays with them, with your name and character as they appear in it; if you are the last parent, the family is deleted. With Sign in with Apple, once you confirm with Apple, Kidoo also stops using your Apple Account. You can also write to the developer, at the address below, to access, correct or delete your data.
+You can delete any child, activity or task, and your own messages, in the app. To delete your account, go to Settings › Account › Delete my account: your account, your device's notification token and this device's copy are deleted. If the other parent stays, the family stays with them, with your name and character as they appear in it; if you are the last parent, the family is deleted. With Sign in with Apple, once you confirm with Apple, Kidoo also stops using your Apple Account. You can also write to the developer, at the address below, to access, correct or delete your data.
 
 ## Your choices
 
@@ -131,7 +131,7 @@ Kidoo is meant for parents and isn't meant to be used by children. Children have
 
 ## Logs and analytics
 
-Kidoo writes technical notes about syncing in the iPhone's log, never names or titles. The server keeps technical logs of requests for a short time, and a sign-in log (email address, IP address and time) for seven days. If you choose Share With App Developers (Settings › Privacy & Security › Analytics & Improvements), Apple may pass usage statistics and crash reports on to the developer.
+Kidoo writes technical notes about syncing in the device's log, never names or titles. The server keeps technical logs of requests for a short time, and a sign-in log (email address, IP address and time) for seven days. If you choose Share With App Developers (Settings › Privacy & Security › Analytics & Improvements), Apple may pass usage statistics and crash reports on to the developer.
 
 ## Who handles your data
 

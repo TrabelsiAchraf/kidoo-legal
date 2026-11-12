@@ -5,7 +5,7 @@ lang: fr
 
 # Politique de confidentialité
 
-*Dernière mise à jour : 8 novembre 2026*
+*Dernière mise à jour : 12 novembre 2026*
 
 ## En bref
 
@@ -43,6 +43,17 @@ Le parent qui a créé la famille invite l'autre parent avec un code, un QR code
 
 Kidoo Famille est un abonnement mensuel ou annuel acheté dans l'app ; l'annuel commence par un mois gratuit pour un nouvel identifiant Apple. Apple gère le paiement : Kidoo ne voit jamais votre carte ni votre identifiant Apple. RevenueCat, qui vérifie les achats pour Kidoo, reçoit l'identifiant aléatoire de la famille et ses achats (produit, dates, boutique), jamais un nom, une adresse e-mail ou une information sur un enfant. Le serveur de Kidoo garde si la famille est abonnée et jusqu'à quand. Sans abonnement, la famille reste consultable et rien n'est supprimé.
 
+## Sur Android
+
+Kidoo existe aussi sur Android, avec la même famille et le même serveur. Ce qui change :
+
+- **Compte.** Vous pouvez vous connecter avec Google : Google transmet à Kidoo votre adresse e-mail et votre nom pour créer votre compte ; Kidoo ne voit jamais le mot de passe de votre compte Google. Le code à 6 chiffres par e-mail reste possible.
+- **Alertes.** Le serveur de Kidoo envoie les alertes par Firebase Cloud Messaging, le service de notifications de Google, qui reçoit un identifiant technique de l'appareil et le contenu de l'alerte (le titre de l'activité, le prénom de l'enfant, qui a fait le changement, ou le texte d'un message). Le compte à rebours avant le départ est préparé sur le téléphone : rien n'est envoyé au serveur pour lui.
+- **Abonnement.** Kidoo Famille acheté sur Android est payé à Google Play ; Kidoo ne voit jamais votre carte ni votre compte Google Play. RevenueCat vérifie les achats pour Kidoo, comme sur iPhone, avec l'identifiant aléatoire de la famille.
+- **Appareil.** Kidoo n'utilise pas l'identifiant publicitaire Android et exclut ses données des sauvegardes Android. L'appareil photo sert seulement à scanner le QR code d'une invitation. Il n'y a pas de dictée sur Android.
+- **Statistiques.** Si vous avez accepté de partager des données d'utilisation et de diagnostic avec Google, Google Play peut transmettre au développeur des statistiques de plantage et de performance, sans votre identité.
+- **Vos choix.** Les autorisations (appareil photo, notifications) se coupent dans les réglages Android de l'app.
+
 ## Supprimer vos données
 
 Vous pouvez supprimer n'importe quel enfant, activité ou tâche, ainsi que vos propres messages, dans l'app. Pour supprimer votre compte, allez dans Réglages › Compte › Supprimer mon compte : votre compte, le jeton de notification de votre appareil et la copie de cet appareil sont supprimés. Si l'autre parent reste, la famille lui reste, avec votre prénom et votre personnage tels qu'ils y figurent ; si vous êtes le dernier parent, la famille est supprimée. Avec Se connecter avec Apple, une fois que vous confirmez avec Apple, Kidoo cesse aussi d'utiliser votre compte Apple. Vous pouvez aussi écrire au développeur, à l'adresse ci-dessous, pour accéder à vos données, les corriger ou les supprimer.
@@ -61,7 +72,7 @@ Kidoo écrit des notes techniques sur la synchronisation dans le journal de l'ap
 
 ## Qui traite vos données
 
-Le développeur est responsable de vos données. Supabase héberge le serveur sur Amazon Web Services dans l'Union européenne, pour le compte du développeur ; Resend envoie les e-mails contenant votre code de connexion ; Apple achemine les notifications et, si vous l'utilisez, Se connecter avec Apple ; Apple encaisse le paiement de l'abonnement, et RevenueCat vérifie les achats pour Kidoo. Personne d'autre ne reçoit vos données, et elles ne sont jamais vendues.
+Le développeur est responsable de vos données. Supabase héberge le serveur sur Amazon Web Services dans l'Union européenne, pour le compte du développeur ; Resend envoie les e-mails contenant votre code de connexion ; Apple achemine les notifications et, si vous l'utilisez, Se connecter avec Apple ; Apple encaisse le paiement de l'abonnement, et RevenueCat vérifie les achats pour Kidoo. Sur Android, Google achemine les notifications (Firebase Cloud Messaging), encaisse l'abonnement acheté sur Google Play et, si vous l'utilisez, permet de se connecter avec Google. Personne d'autre ne reçoit vos données, et elles ne sont jamais vendues.
 
 ## Vos droits
 
@@ -79,7 +90,7 @@ Kidoo est développé par Achraf Trabelsi. Questions ou demandes : trabelsiachra
 
 # Privacy policy
 
-*Last updated: November 8, 2026*
+*Last updated: November 12, 2026*
 
 ## In short
 
@@ -117,6 +128,17 @@ The parent who created the family invites the other parent with a code, a QR cod
 
 Kidoo Famille is a monthly or yearly subscription bought in the app; the yearly one starts with a free month for a new Apple ID. Apple handles the payment: Kidoo never sees your card or your Apple ID. RevenueCat, which checks purchases for Kidoo, receives the family's random identifier and its purchases (product, dates, store), never a name, an email address or a child's information. Kidoo's server keeps whether the family is subscribed and until when. Without a subscription, the family stays readable and nothing is deleted.
 
+## On Android
+
+Kidoo is also on Android, with the same family and the same server. What changes:
+
+- **Account.** You can sign in with Google: Google gives Kidoo your email address and your name to create your account; Kidoo never sees your Google Account password. The 6-digit code by email still works.
+- **Alerts.** Kidoo's server sends alerts through Firebase Cloud Messaging, Google's notification service, which receives a technical identifier of the device and the alert's content (the activity's title, the child's first name, who made the change, or a message's text). The countdown before leaving is prepared on the phone: nothing is sent to the server for it.
+- **Subscription.** Kidoo Famille bought on Android is paid to Google Play; Kidoo never sees your card or your Google Play account. RevenueCat checks purchases for Kidoo, as on iPhone, with the family's random identifier.
+- **Device.** Kidoo doesn't use the Android advertising ID and keeps its data out of Android backups. The camera is only used to scan an invitation's QR code. There is no dictation on Android.
+- **Analytics.** If you agreed to share usage and diagnostics data with Google, Google Play may pass crash and performance statistics on to the developer, without your identity.
+- **Your choices.** Permissions (camera, notifications) are turned off in the app's Android settings.
+
 ## Deleting your data
 
 You can delete any child, activity or task, and your own messages, in the app. To delete your account, go to Settings › Account › Delete my account: your account, your device's notification token and this device's copy are deleted. If the other parent stays, the family stays with them, with your name and character as they appear in it; if you are the last parent, the family is deleted. With Sign in with Apple, once you confirm with Apple, Kidoo also stops using your Apple Account. You can also write to the developer, at the address below, to access, correct or delete your data.
@@ -135,7 +157,7 @@ Kidoo writes technical notes about syncing in the device's log, never names or t
 
 ## Who handles your data
 
-The developer is responsible for your data. Supabase hosts the server on Amazon Web Services in the European Union, on the developer's behalf; Resend sends the emails with your sign-in code; Apple delivers notifications and, if you use it, Sign in with Apple; Apple takes the subscription's payment, and RevenueCat checks purchases for Kidoo. No one else receives your data, and it is never sold.
+The developer is responsible for your data. Supabase hosts the server on Amazon Web Services in the European Union, on the developer's behalf; Resend sends the emails with your sign-in code; Apple delivers notifications and, if you use it, Sign in with Apple; Apple takes the subscription's payment, and RevenueCat checks purchases for Kidoo. On Android, Google delivers notifications (Firebase Cloud Messaging), takes the payment of a subscription bought on Google Play and, if you use it, lets you sign in with Google. No one else receives your data, and it is never sold.
 
 ## Your rights
 
